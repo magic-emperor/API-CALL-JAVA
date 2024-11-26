@@ -9,4 +9,5 @@ HttpRequest.newBuilder()
   1.URI - to create a new API build 
   2. HttpClient.newHttpClient() -- to create a new client request
   3. client.send(request, HttpResponse.BodyHandlers.ofString());
+  
 Project URL: https://roadmap.sh/projects/github-user-activity
